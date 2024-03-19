@@ -1,0 +1,53 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lora:ital,wght@0,400..700;1,400..700&family=Mr+Dafoe&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Oswald:wght@200..700&family=Pompiere&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.div-1{
+    background-color: tan;
+    width: 100%;
+    height: 100vh;
+}
+.navigation-3{
+    
+   
+    font-family: "oswald";
+    padding:20px 50px  ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+
+
+}
+.logo-2{
+    padding: 10px;
+    font-weight: bold;
+    font-size: 36px;
+    
+    
+
+}
+.ul-4,li,a{
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    background-color: brown;
+    margin: 30px 30;
+}
+.ul-4,li,a:hover{
+    color: beige;
+    transition: 1s;
+    
+    
+    
+
+}
